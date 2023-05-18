@@ -1,0 +1,14 @@
+-------------Common------------------
+          Class Empolyee
+             f1,f2,f3
+-------------------------------------
+      Empolyee O1 | Empolyee O2
+--------------------------------------
+       O1.f1      |   O2.f1    
+       O1.f3      |   O2.f2    
+       O1.f2      |   O2.f3
+
+
+//O1 & O2  Different Memory Allocation
+
+// f1,f2,f3  only one time memory allocation  this is a common 

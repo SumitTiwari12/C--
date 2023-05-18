@@ -1,0 +1,2 @@
+The member function eof(End-of-file) returns a boolean true if the file reaches the end of it and faUnderstanding the snippet below:
+Hello World
